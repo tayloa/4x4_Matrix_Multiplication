@@ -1,5 +1,5 @@
 # Computer_Organization_RPI_1016
-A collection of all coding assignments from Computer Organization during the fall 2016 semester at RPI.<br />
+A collection of all coding assignments from Computer Organization during the fall 2016 semester at RPI. Each assignment folder includes a pdf for the homework along with heavily commented code. <br />
 
-Assignment 1:Linear Interpolation<br />
+Assignment 1: Linear Interpolation<br />
 Assignment 2: 4x4 Matrix Multiplication<br />
