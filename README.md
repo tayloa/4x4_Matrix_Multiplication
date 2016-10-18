@@ -1,5 +1,2 @@
-# Computer_Organization_RPI_1016
-A collection of all coding assignments and labs from Computer Organization during the fall 2016 semester at RPI. Each folder includes a pdf for the lab or assignemnt along with commented code. <br />
-
-Assignment 1: Linear Interpolation<br />
-Assignment 2: 4x4 Matrix Multiplication<br />
+# 4x4 Matrix Multiplication Using MIPS
+A decent sized program written in MIPS that multiplies two 4 x 4 matrices and returns the result. The program takes user input for the two matrices. It then prints the resulting product to the console in the matrix format.<br />
